@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "./node_modules/.bin/forge"
+  },
+  "dependencies": {
+    "@forge/cli": "^10.0.0",
+    "tslib": "^2.6.3"
+  }
+}
